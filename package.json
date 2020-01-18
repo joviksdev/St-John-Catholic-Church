@@ -4,10 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "server.js",
+    "start": "node server.js",
     "dev-start": "nodemon server.js",
     "deploy": "gh-pages -d build"
   },
+  "homepage": " https://joviksdev.github.io/St-John-Catholic-Church/",
   "author": "Emmanuel Tochukwu",
   "license": "ISC",
   "dependencies": {
